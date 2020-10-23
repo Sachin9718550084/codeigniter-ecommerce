@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'GothamLight';
+    src: url('fonts/GothamLight.eot');
+    src: url('fonts/GothamLight.eot') format('embedded-opentype'),
+         url('fonts/GothamLight.woff2') format('woff2'),
+         url('fonts/GothamLight.woff') format('woff'),
+         url('fonts/GothamLight.ttf') format('truetype'),
+         url('fonts/GothamLight.svg#GothamLight') format('svg');
+}
+
+@font-face {
+    font-family: 'OswaldBold';
+    src: url('fonts/OswaldBold.eot');
+    src: url('fonts/OswaldBold.eot') format('embedded-opentype'),
+         url('fonts/OswaldBold.woff2') format('woff2'),
+         url('fonts/OswaldBold.woff') format('woff'),
+         url('fonts/OswaldBold.ttf') format('truetype'),
+         url('fonts/OswaldBold.svg#OswaldBold') format('svg');
+}
+@font-face {
+    font-family: 'OswaldRegular';
+    src: url('fonts/OswaldRegular.eot');
+    src: url('fonts/OswaldRegular.eot') format('embedded-opentype'),
+         url('fonts/OswaldRegular.woff2') format('woff2'),
+         url('fonts/OswaldRegular.woff') format('woff'),
+         url('fonts/OswaldRegular.ttf') format('truetype'),
+         url('fonts/OswaldRegular.svg#OswaldRegular') format('svg');
+}
